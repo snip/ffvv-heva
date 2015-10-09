@@ -12,3 +12,4 @@ Base URL for preproduction seems to be available at http://api.preprodlicences.f
 
 Base url for **production** is http://api.licences.ffvv.stadline.com/
 
+*If you want your example to be seee here, feel free to sent it to me, i will be happy to add it with your credits. sebastien at chaumontet.net*
